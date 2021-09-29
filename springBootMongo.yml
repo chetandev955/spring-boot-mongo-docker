@@ -12,7 +12,7 @@ kind: Secret
 metadata:
   name: springappsecrets
 type: Opaque
-stringData:   # We can define multiple key value pairs.
+stringData:   # We can define multiple key value pairs1.
   password: devdb@123
 
 ---
